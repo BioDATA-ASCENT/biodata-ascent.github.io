@@ -1,5 +1,5 @@
 ---
-title: BioDATA-ASCENT
+title: BioDATA ASCENT
 ---
 
 {% include_relative README.md %}
