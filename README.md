@@ -39,6 +39,8 @@ Projects can take many forms. Teams can:
 - Test AI-assisted methods for research discovery
 - Turn a promising research question into an initial analysis or prototype
 
+**Have an idea for a potential team project?** Please reach out to [Allissa Dillman](mailto:adillman@biodatasage.com) and [Mike Schatz](mailto:mschatz@cs.jhu.edu) to discuss it further.
+
 By the end of the event, each team will present what they built, draft blog posts & manuscripts, identify next steps, and make connections that can continue beyond the code-a-thon.
 
 ## Schedule
