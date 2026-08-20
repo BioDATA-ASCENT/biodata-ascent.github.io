@@ -13,6 +13,7 @@ permalink: /flyer/
     max-width: 920px;
     margin: 0 auto;
     color: var(--navy);
+    font-size: 1.15rem;
     text-align: center;
   }
   .social-flyer * { box-sizing: border-box; }
@@ -32,7 +33,7 @@ permalink: /flyer/
   .social-flyer .tagline {
     margin: 0.65rem auto 1.2rem;
     color: #334155;
-    font-size: clamp(1.05rem, 2.4vw, 1.45rem);
+    font-size: clamp(1.2rem, 2.6vw, 1.6rem);
     font-weight: 600;
   }
   .social-flyer .event-banner {
@@ -49,20 +50,8 @@ permalink: /flyer/
   }
   .social-flyer .event-place {
     margin-top: 0.45rem;
-    font-size: clamp(1rem, 2.5vw, 1.35rem);
+    font-size: clamp(1.1rem, 2.7vw, 1.5rem);
     font-weight: 600;
-  }
-  .social-flyer .register-button {
-    display: inline-block;
-    margin: 0.35rem 0 1.25rem;
-    padding: 0.85rem 1.5rem;
-    border-radius: 999px;
-    background: var(--orange);
-    color: white !important;
-    font-size: 1.2rem;
-    font-weight: 800;
-    text-decoration: none !important;
-    box-shadow: 0 5px 0 #c94d00;
   }
   .social-flyer .feature-grid,
   .social-flyer .schedule-grid,
@@ -82,7 +71,7 @@ permalink: /flyer/
     display: block;
     margin-bottom: 0.5rem;
     color: var(--blue);
-    font-size: 1.35rem;
+    font-size: 1.5rem;
     letter-spacing: 0.05em;
   }
   .social-flyer .feature-card:nth-child(2) strong { color: var(--teal); }
@@ -93,14 +82,14 @@ permalink: /flyer/
     border-radius: 12px;
     background: #e6f8f8;
     color: var(--navy);
-    font-size: 1.05rem;
+    font-size: 1.15rem;
     font-weight: 750;
   }
   .social-flyer h2 {
     margin: 1.25rem 0 0.7rem;
     border: 0;
     color: var(--navy);
-    font-size: 1.6rem;
+    font-size: 1.8rem;
   }
   .social-flyer .schedule-grid { grid-template-columns: repeat(2, 1fr); }
   .social-flyer .schedule-card {
@@ -108,16 +97,17 @@ permalink: /flyer/
     border-radius: 14px;
     background: var(--navy);
     color: white;
+    font-size: 1.1rem;
   }
   .social-flyer .schedule-card strong {
     display: block;
     color: #65e3ea;
-    font-size: 1.15rem;
+    font-size: 1.25rem;
   }
   .social-flyer .housing {
     margin: 0.8rem 0 1.15rem;
     color: #475569;
-    font-size: 0.95rem;
+    font-size: 1.05rem;
   }
   .social-flyer .link-grid { grid-template-columns: repeat(2, 1fr); }
   .social-flyer .link-card {
@@ -125,20 +115,23 @@ permalink: /flyer/
     border: 2px solid var(--blue);
     border-radius: 14px;
     color: var(--navy);
+    font-size: 1.05rem;
     text-decoration: none !important;
   }
   .social-flyer .link-card strong {
     display: block;
     color: var(--blue);
+    font-size: 1.15rem;
   }
   .social-flyer .hosts {
     margin: 1.15rem 0 0.4rem;
+    font-size: 1.05rem;
     font-weight: 650;
   }
   .social-flyer .support {
     margin: 0.4rem 0;
     color: #64748b;
-    font-size: 0.9rem;
+    font-size: 1rem;
   }
   @media (max-width: 680px) {
     .social-flyer .feature-grid,
@@ -158,8 +151,6 @@ permalink: /flyer/
     <div class="event-date">NOVEMBER 3–4, 2026</div>
     <div class="event-place">Cold Spring Harbor Laboratory · New York · In person</div>
   </div>
-
-  <a class="register-button" href="https://forms.gle/xKgVN9M2YeVgpwSu8">REGISTER NOW</a>
 
   <div class="feature-grid">
     <div class="feature-card">
