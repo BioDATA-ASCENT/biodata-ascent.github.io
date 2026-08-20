@@ -3,6 +3,9 @@
 
 <hr>
 November 3-4, 2026 · Cold Spring Harbor Laboratory, New York · In person
+
+<br><br>
+<a href="https://forms.gle/xKgVN9M2YeVgpwSu8" style="display: inline-block; padding: 12px 24px; background-color: #0969da; color: #ffffff; border-radius: 6px; font-weight: 600; text-decoration: none;">Register for BioDATA ASCENT</a>
 </div>
 
 <br>
@@ -73,7 +76,9 @@ Bring your laptop, your ideas, and your curiosity. You are welcome to arrive wit
 
 Participants with a range of biological and computational backgrounds are welcome; no prior cloud-computing or AI experience is required.
 
-Register for the BioDATA ASCENT code-a-thon on the [Biological Data Science Conference Website](https://meetings.cshl.edu/meetings.aspx?meet=DATA&year=26). Make sure to request housing for November 3rd for the start of the code-a-thon.
+[Register for the BioDATA ASCENT code-a-thon](https://forms.gle/xKgVN9M2YeVgpwSu8) using our participant registration form. **There is no cost to join the code-a-thon.**
+
+The additional night of housing on November 3 costs **$255**. This charge includes dinner on November 3 and meals on November 4. Participants attending the [Biological Data Science Conference](https://meetings.cshl.edu/meetings.aspx?meet=DATA&year=26) should make sure to request housing beginning November 3.
 
 ## Questions?
 
