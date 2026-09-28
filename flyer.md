@@ -196,6 +196,6 @@ permalink: /flyer/
     </a>
   </div>
 
-  <p class="hosts">Hosted by Allissa Dillman (BioDataSage) and Michael Schatz (Johns Hopkins University)</p>
+  <p class="hosts">Hosted by Allissa Dillman (Common Fund Training Center) and Michael Schatz (Johns Hopkins University)</p>
   <p class="support">Brought to you by the Common Fund Data Ecosystem (CFDE) and NHGRI AnVIL programs.</p>
 </div>
